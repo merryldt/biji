@@ -12,6 +12,8 @@
 ## Springboot系列
 - [Springboot整合Junit-单元测试](https://github.com/florarose/biji/blob/master/Junit.md)
 - [SpringBoot整合Fastjson-处理返回值的问题](https://github.com/florarose/biji/blob/master/SpringBoot_Fastjson.md)
+- [SpringBoot处理默认Jackson-处理返回值的问题](https://github.com/florarose/biji/blob/master/Springboot_Jackson.md)
+- [SpringBoot整合@JsonView注解](https://github.com/florarose/biji/blob/master/JsonView.md)
 ## Docker
 - [Docker 安装MySQL 主从复制 、Redis 、nginx 、安装maven,和java 配置开发环境](https://github.com/florarose/biji/blob/master/docker.md)
 - [Docker常用命令集合](https://github.com/florarose/biji/blob/master/docker_command.md)
