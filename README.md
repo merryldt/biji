@@ -3,11 +3,11 @@
 - [RSA 解密优化-单例模式-同步关键字（synchronized）-volatile关键字的使用](https://github.com/florarose/biji/blob/master/rsa%E8%A7%A3%E5%AF%86%E4%BC%98%E5%8C%96.md)
 - [Volatile关键字的初步认识](https://github.com/florarose/biji/blob/master/Volatile.md)
 - [java 语法糖之-自动装箱、拆箱](https://github.com/florarose/biji/blob/master/java_Autoboxing.md)
-- [垃圾收集器与内存分配策略](https://github.com/florarose/biji/blob/master/java.md)
 ## 算法
 - [单链表的基本使用-增删查](https://github.com/florarose/biji/blob/master/Linked.md)
 ## 虚拟机读书笔记
 - [虚拟机在java堆中对象分配、布局和访问的过程](https://github.com/florarose/biji/blob/master/hotSpot.md)
+- [垃圾收集器与内存分配策略](https://github.com/florarose/biji/blob/master/java.md)
 ## java编程思想
 ## Springboot系列
 - [Springboot整合Junit-单元测试](https://github.com/florarose/biji/blob/master/Junit.md)
