@@ -96,4 +96,4 @@
             }
         }
     ``` 
-## Lambda结合FunctionalInterface Lib, forEach, stream()，method reference等新特性可以使代码变的更加简洁！
+## Lambda结合forEach, stream()等新特性使代码更加简洁！
