@@ -125,7 +125,7 @@
           List<lambdaDemo> lambdaDemos = Arrays.asList(new lambdaDemo("zhang","黑人",60),
                   new lambdaDemo("li","黑人",2),
                   new lambdaDemo("liu","白人",3));
-          System.out.println("========根据人的年龄是否大于1000进行分区========================");
+          System.out.println("========根据人的年龄是否大于40进行分区========================");
           Map<Boolean, List<lambdaDemo>> map = lambdaDemos.stream().collect(Collectors.partitioningBy(p -> p.getAge() > 40));
           System.out.println(map);
       }
