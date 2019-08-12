@@ -3,6 +3,8 @@
 - [RSA 解密优化-单例模式-同步关键字（synchronized）-volatile关键字的使用](https://github.com/florarose/biji/blob/master/rsa%E8%A7%A3%E5%AF%86%E4%BC%98%E5%8C%96.md)
 - [Volatile关键字的初步认识](https://github.com/florarose/biji/blob/master/Volatile.md)
 - [java 语法糖之-自动装箱、拆箱](https://github.com/florarose/biji/blob/master/java_Autoboxing.md)
+- [JDK8新特性之Lambda表达式](https://github.com/florarose/biji/blob/master/lambda.md)
+- [java 8  流Stream](https://github.com/florarose/biji/blob/master/Stream.md)
 ## 算法
 - [单链表的基本使用-增删查](https://github.com/florarose/biji/blob/master/Linked.md)
 ## 虚拟机读书笔记
