@@ -7,6 +7,8 @@
 - [java 8  流Stream](https://github.com/florarose/biji/blob/master/Stream.md)
 ## 算法
 - [单链表的基本使用-增删查](https://github.com/florarose/biji/blob/master/Linked.md)
+## 数据库 mysql
+- [Mysql_存储时间精度处理](https://github.com/florarose/biji/blob/master/Mysql_存储时间精度处理.md)
 ## 虚拟机读书笔记
 - [虚拟机在java堆中对象分配、布局和访问的过程](https://github.com/florarose/biji/blob/master/hotSpot.md)
 - [垃圾收集器与内存分配策略](https://github.com/florarose/biji/blob/master/java.md)
@@ -23,6 +25,7 @@
 - [Jmeter初步使用](https://github.com/florarose/biji/blob/master/Jmeter.md)
 ## Nginx
 - [nginx的认识](https://github.com/florarose/biji/blob/master/nginx.md)
-
+## 开发工具 
+- [ide中ssh,ssm ](https://github.com/florarose/biji/blob/master/ssh或ssm项目在idea中的运行.md)
 ## 以上知识的源代码：
 - [源代码](https://github.com/florarose/com.merry.tool)
