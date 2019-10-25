@@ -96,4 +96,44 @@
             }
         }
     ``` 
+## 参考例子
+```
+ //在map集合下的使用
+      Map<String,Object> map =new HashMap<String, Object>();
+      map.put("A",1);
+      map.put("B",2);
+      //需要添加判断条件的
+      map.keySet().forEach(name ->{
+          if(name.startsWith("A")){
+             System.out.println(map.get(name));
+          }
+      });
+      System.out.println("-----------------------------------------");
+      //不需要判断条件
+      map.keySet().forEach(name ->{
+            System.out.println(map.get(name));
+      });
+      //方法引用由::双冒号操作符标示
+      System.out.println("-----------------------------------------");
+      map.keySet().forEach( System.out::println);
+
+      // list
+      List future = Arrays.asList("Great works are accomplished not by strength but by perseverance.","Keep its original intention and remain unchanged");
+      //lambda
+      future.forEach(n -> System.out.println(n));
+      //lambda 结合 方法引用
+      future.forEach(System.out::println);
+```
+## 总结
+1. lambda 表达式在java中也称为闭包或匿名函数；
+2. lambda表达式 在编译器内部会被编译成私有方法；
+3. lambda 外部变量，不能修改，只能访问。
+![image](https://yqfile.alicdn.com/b5321b390e4e2178937e3d331f61d4a057c4f353.png)
+![image](https://yqfile.alicdn.com/0c5f7fffab246cbc212f1bd98472065f0b23302c.png)
+![image](https://yqfile.alicdn.com/d7eea5d9711e8cf292a1130703aa33d6e62ff386.png)
+
 ## Lambda结合forEach, stream()等新特性使代码更加简洁！
+## github博客列表地址
+[github](https://github.com/florarose/biji)
+欢迎关注公众号，查看更多内容 ： 
+![XG54_9_WXMH_5X_HB_H_7V](https://yqfile.alicdn.com/17479bd1026b3d93f5718893256adf7d6d164e5d.png)

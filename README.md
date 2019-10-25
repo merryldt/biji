@@ -5,6 +5,7 @@
 - [java 语法糖之-自动装箱、拆箱](https://github.com/florarose/biji/blob/master/Java/java_Autoboxing.md)
 - [JDK8新特性之Lambda表达式](https://github.com/florarose/biji/blob/master/Java/lambda.md)
 - [java 8  流Stream](https://github.com/florarose/biji/blob/master/Java/Stream.md)
+- [java 8 函数式接口](https://github.com/florarose/biji/blob/master/Java/Functional_programming.md)
 ## 算法
 - [单链表的基本使用-增删查](https://github.com/florarose/biji/blob/master/Suanfa/Linked.md)
 ## 数据库 mysql
@@ -29,5 +30,12 @@
 - [nginx的认识](https://github.com/florarose/biji/blob/master/nginx.md)
 ## 开发工具 
 - [ide中ssh,ssm ](https://github.com/florarose/biji/blob/master/ssh或ssm项目在idea中的运行.md)
+## SpringCloud学习
+- [eureka-初步学习](https://github.com/florarose/biji/blob/master/SpringCloud/eureka.md)
+## SpringSecurity
+- [SpringSecurity 基础认识](https://github.com/florarose/biji/blob/master/SpringSecurity/SpringSecurity-01.md)
+- [SpringSecurity 密码验证流程](https://github.com/florarose/biji/blob/master/SpringSecurity/SpringSecurity-02.md)
 ## 以上知识的源代码：
 - [源代码](https://github.com/florarose/com.merry.tool)
+欢迎关注公众号，查看更多内容 ： 
+![XG54_9_WXMH_5X_HB_H_7V](https://yqfile.alicdn.com/17479bd1026b3d93f5718893256adf7d6d164e5d.png)
