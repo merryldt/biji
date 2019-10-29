@@ -128,6 +128,11 @@
            <append value="ENGINE=INNODB DEFAULT CHARSET utf8mb4 COLLATE utf8mb4_general_ci"/>
          </modifySql>
        </changeSet>
+       <changeSet author="diff-generated" id="1185214997195-7">
+           <createIndex indexName="PK_EMP" tableName="EMP">
+               <column name="EMPNO"/>
+           </createIndex>
+       </changeSet>
      </databaseChangeLog>
    ```
 4. index.xml,封装一个共用的入口，通过include 引入变更集
@@ -151,7 +156,9 @@
              return springLiquibase;
          }
    ```
+## 参考地址
+  [Liquibase](http://www.liquibase.org/documentation/generating_changelogs.html)
   ## demo地址
-  [demo地址](https://github.com/florarose/biji)
+  [demo地址](https://github.com/florarose/com.merry.tool/tree/master/SpringBoot-Liquibase)
   欢迎关注公众号，查看更多内容 ： 
   ![XG54_9_WXMH_5X_HB_H_7V](https://yqfile.alicdn.com/17479bd1026b3d93f5718893256adf7d6d164e5d.png)
