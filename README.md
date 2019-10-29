@@ -8,8 +8,11 @@
 - [java 8 函数式接口](https://github.com/florarose/biji/blob/master/Java/Functional_programming.md)
 ## 算法
 - [单链表的基本使用-增删查](https://github.com/florarose/biji/blob/master/Suanfa/Linked.md)
-## 数据库 mysql
-- [Mysql_存储时间精度处理](https://github.com/florarose/biji/blob/master/Mysql/Mysql_存储时间精度处理.md)
+## 数据库 
+  ### mysql
+   - [Mysql_存储时间精度处理](https://github.com/florarose/biji/blob/master/Mysql/Mysql_存储时间精度处理.md)
+  ### 数据库重构和迁移工具
+   - [liquibase](https://github.com/florarose/biji/blob/master/Mysql/liquibase.md)
 ## 虚拟机读书笔记
 - [虚拟机在java堆中对象分配、布局和访问的过程](https://github.com/florarose/biji/blob/master/Jvm/hotSpot.md)
 - [垃圾收集器与内存分配策略](https://github.com/florarose/biji/blob/master/Jvm/java.md)
