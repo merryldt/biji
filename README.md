@@ -29,6 +29,8 @@
 - [Docker常用命令集合](https://github.com/florarose/biji/blob/master/Docker/docker_command.md)
 ## 性能工具
 - [Jmeter初步使用](https://github.com/florarose/biji/blob/master/Jmeter.md)
+## 线程池
+- [Jmeter初步使用](https://github.com/florarose/biji/blob/master/Executors/executor_1.md)
 ## Nginx
 - [nginx的认识](https://github.com/florarose/biji/blob/master/nginx.md)
 ## 开发工具 
